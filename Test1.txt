@@ -1,0 +1,135 @@
+Time0
+Waiting clients[( 4, 6, 2) , ( 2, 7, 3) , ( 3, 7, 2) , ( 1, 15, 3) ]
+Time1
+Waiting clients[( 4, 6, 2) , ( 2, 7, 3) , ( 3, 7, 2) , ( 1, 15, 3) ]
+Time2
+Waiting clients[( 4, 6, 2) , ( 2, 7, 3) , ( 3, 7, 2) , ( 1, 15, 3) ]
+Time3
+Waiting clients[( 4, 6, 2) , ( 2, 7, 3) , ( 3, 7, 2) , ( 1, 15, 3) ]
+Time4
+Waiting clients[( 4, 6, 2) , ( 2, 7, 3) , ( 3, 7, 2) , ( 1, 15, 3) ]
+Time5
+Waiting clients[( 4, 6, 2) , ( 2, 7, 3) , ( 3, 7, 2) , ( 1, 15, 3) ]
+Time6
+Waiting clients[( 2, 7, 3) , ( 3, 7, 2) , ( 1, 15, 3) ]
+Queue 15: serving ( 4, 6, 2) waiting []
+Time7
+Waiting clients[( 1, 15, 3) ]
+Queue 16: serving ( 2, 7, 3) waiting []
+Server 15: serving ( 4, 6, 1) waiting [( 3, 7, 2) ]
+Time8
+Waiting clients[( 1, 15, 3) ]
+Queue 15: serving ( 3, 7, 2) waiting []
+Server 16: serving ( 2, 7, 2) waiting []
+Time9
+Waiting clients[( 1, 15, 3) ]
+Server 15: serving ( 3, 7, 1) waiting []
+Server 16: serving ( 2, 7, 1) waiting []
+Time10
+Waiting clients[( 1, 15, 3) ]
+Time11
+Waiting clients[( 1, 15, 3) ]
+Time12
+Waiting clients[( 1, 15, 3) ]
+Time13
+Waiting clients[( 1, 15, 3) ]
+Time14
+Waiting clients[( 1, 15, 3) ]
+Time15
+Waiting clients[]
+Queue 15: serving ( 1, 15, 3) waiting []
+Time16
+Waiting clients[]
+Server 15: serving ( 1, 15, 2) waiting []
+Time17
+Waiting clients[]
+Server 15: serving ( 1, 15, 1) waiting []
+Time18
+Waiting clients[]
+Time19
+Waiting clients[]
+Time20
+Waiting clients[]
+Time21
+Waiting clients[]
+Time22
+Waiting clients[]
+Time23
+Waiting clients[]
+Time24
+Waiting clients[]
+Time25
+Waiting clients[]
+Time26
+Waiting clients[]
+Time27
+Waiting clients[]
+Time28
+Waiting clients[]
+Time29
+Waiting clients[]
+Time30
+Waiting clients[]
+Time31
+Waiting clients[]
+Time32
+Waiting clients[]
+Time33
+Waiting clients[]
+Time34
+Waiting clients[]
+Time35
+Waiting clients[]
+Time36
+Waiting clients[]
+Time37
+Waiting clients[]
+Time38
+Waiting clients[]
+Time39
+Waiting clients[]
+Time40
+Waiting clients[]
+Time41
+Waiting clients[]
+Time42
+Waiting clients[]
+Time43
+Waiting clients[]
+Time44
+Waiting clients[]
+Time45
+Waiting clients[]
+Time46
+Waiting clients[]
+Time47
+Waiting clients[]
+Time48
+Waiting clients[]
+Time49
+Waiting clients[]
+Time50
+Waiting clients[]
+Time51
+Waiting clients[]
+Time52
+Waiting clients[]
+Time53
+Waiting clients[]
+Time54
+Waiting clients[]
+Time55
+Waiting clients[]
+Time56
+Waiting clients[]
+Time57
+Waiting clients[]
+Time58
+Waiting clients[]
+Time59
+Waiting clients[]
+Time60
+Waiting clients[]
+Average Service Time 2.5
+Average Waiting Time 8.75
+Peak hour 18.0
